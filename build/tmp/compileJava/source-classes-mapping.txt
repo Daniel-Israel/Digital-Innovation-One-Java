@@ -12,7 +12,7 @@ Exercicio3/Gerente.java
  Exercicio3.Gerente
 Exercicio3/Supervisor.java
  Exercicio3.Supervisor
-Exercicio3/Programa.java
- Exercicio3.Programa
 Exercicio3/Atendente.java
  Exercicio3.Atendente
+Exercicio3/Programa.java
+ Exercicio3.Programa

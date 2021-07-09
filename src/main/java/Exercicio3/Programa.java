@@ -11,9 +11,9 @@ public class Programa {
 
         funcionario.setNome("Daniel");
 
-        System.out.println("O funcionário: " + funcionario.getNome() + "Como gerente tem o salário de: " + gerente.getSalario() + "E o imposto de: " + gerente.calculaimposto());
-        System.out.println("O funcionário: " + funcionario.getNome() + "Como supervisor tem o salário de: " + supervisor.getSalario() + "E o imposto de: " + supervisor.calculaimposto());
-        System.out.println("O funcionário: " + funcionario.getNome() + "Como atendente tem o salário de: " + atendente.getSalario() + "E o imposto de: " + atendente.calculaimposto());
+        System.out.println("O funcionário: " + funcionario.getNome() + " como gerente tem o salário de: " + gerente.getSalario() + " e o imposto de: " + gerente.calculaimposto());
+        System.out.println("O funcionário: " + funcionario.getNome() + " como supervisor tem o salário de: " + supervisor.getSalario() + " e o imposto de: " + supervisor.calculaimposto());
+        System.out.println("O funcionário: " + funcionario.getNome() + " como atendente tem o salário de: " + atendente.getSalario() + " e o imposto de: " + atendente.calculaimposto());
 
 
     }
