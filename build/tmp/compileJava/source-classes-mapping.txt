@@ -16,3 +16,15 @@ Exercicio3/Atendente.java
  Exercicio3.Atendente
 Exercicio3/Programa.java
  Exercicio3.Programa
+Exercicio3v2/Supervisor.java
+ Exercicio3v2.Supervisor
+Exercicio3v2/Programa.java
+ Exercicio3v2.Programa
+Exercicio3v2/Gerente.java
+ Exercicio3v2.Gerente
+Exercicio3v2/Funcionarios.java
+ Exercicio3v2.Funcionarios
+Exercicio3v2/Atendente.java
+ Exercicio3v2.Atendente
+Exercicio1_date/ExercicioFinal1.java
+ Exercicio1_date.ExercicioFinal1
