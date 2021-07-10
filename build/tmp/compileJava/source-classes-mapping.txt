@@ -28,3 +28,5 @@ Exercicio3v2/Atendente.java
  Exercicio3v2.Atendente
 Exercicio1_date/ExercicioFinal1.java
  Exercicio1_date.ExercicioFinal1
+Exercicio2_date/Exercicio2.java
+ Exercicio2_date.Exercicio2
