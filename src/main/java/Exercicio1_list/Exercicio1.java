@@ -22,7 +22,7 @@ public class Exercicio1 {
         System.out.println("Mostre a primeira nota da lista sem removê-lo: " + notas2.get(0));
 
         System.out.println("Mostre a primeira nota da lista removendo-o: " + notas2.remove(0) + notas2);
-        
+
     }
 
 }
