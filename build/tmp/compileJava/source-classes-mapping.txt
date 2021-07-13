@@ -34,3 +34,5 @@ Exercicio3v2/Gerente.java
  Exercicio3v2.Gerente
 Exercicio4_date/Exercicio4.java
  Exercicio4_date.Exercicio4
+Exercicio1_list/Exercicio1.java
+ Exercicio1_list.Exercicio1
